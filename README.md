@@ -15,14 +15,14 @@ Code-scanner-config.xml
 
 dependencies-matrix.xml
 
+
+
    <technology symbol="Assembler" type="language">
         <allow symbol="SQL"/>
     </technology>
-
     <technology symbol="CTL" type="language">
         <allow symbol="SQL"/>
     </technology>
-
     <technology symbol="Easytrieve" type="language">
         <allow symbol="SQL"/>
     </technology>
