@@ -14,9 +14,6 @@ Code-scanner-config.xml
 
 
 dependencies-matrix.xml
-
-
-
    <technology symbol="Assembler" type="language">
         <allow symbol="SQL"/>
     </technology>
